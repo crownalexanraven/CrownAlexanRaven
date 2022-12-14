@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Happpydust
 - 👀 I’m interested in some HTML
-- 🌱 I’m currently learning basic HTML
+- 🌱 I’m currently learning basic python3
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me don't
 

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me don't
 
-<img src="cool_thing_i_found_while_surfing.svg" alt="Github contrubiton chart snake game">
+<img src="github_contributions_chart_snake.svg" alt="Github contrubiton chart snake game">
 
 Credit to AstraaDev
 <!---

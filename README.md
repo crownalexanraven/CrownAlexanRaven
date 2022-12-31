@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning basic <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python3 badge">
 
 
+
+
 - 💞️ I’m looking to collaborate on nothing
 
 <img src="github_contributions_chart_snake.svg" alt="Github contrubiton chart snake game">

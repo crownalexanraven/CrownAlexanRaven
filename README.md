@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Happpydust
-- 👀 I’m interested in some https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
+- 👀 I’m interested in some <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 badge">
 - 🌱 I’m currently learning basic python3
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me don't

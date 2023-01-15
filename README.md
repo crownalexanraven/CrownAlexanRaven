@@ -10,7 +10,7 @@ https://happpydust.github.io/happpydust
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```
-<a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://happpydust.github.io/happpydust" target="_blank"><img src="github_contributions_chart_snake.svg" alt="snake"></a>
 
 Credit to AstraaDev
 <!---

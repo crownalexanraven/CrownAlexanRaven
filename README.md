@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 https://home.aveek.io/GitHub-Profile-Badges/ is profile badge link
 --->
 ```python
-print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
+python3 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```

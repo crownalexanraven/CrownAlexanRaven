@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on nothing
 
 ```python
-python3 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
+print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```
 
 <img src="github_contributions_chart_snake.svg" alt="Github contrubiton chart snake game">

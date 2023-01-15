@@ -4,6 +4,10 @@
 
 - 💞️ I’m looking to collaborate on nothing
 
+```python
+python3 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
+```
+
 <img src="github_contributions_chart_snake.svg" alt="Github contrubiton chart snake game">
 
 Credit to AstraaDev
@@ -12,6 +16,4 @@ Happpydust/Happpydust is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 https://home.aveek.io/GitHub-Profile-Badges/ is profile badge link
 --->
-```python
-python3 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
-```
+

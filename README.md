@@ -10,9 +10,7 @@ https://happpydust.github.io/happpydust
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```
-<a herf="https://happpydust.github.io/Happpydust/">
-<img src="github_contributions_chart_snake.svg" alt="Github contrubiton chart snake game">
-</a>
+<a herf="https://happpydust.github.io/Happpydust/" target=_blank ><img src="github_contributions_chart_snake.svg" alt="Github contrubiton chart snake game"></a>
 Credit to AstraaDev
 <!---
 Happpydust/Happpydust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

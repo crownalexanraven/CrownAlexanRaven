@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python3 badge">
 
 - 💞️ I’m looking to collaborate on nothing
--I'm a trash [Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)
+-I'm a trash ![Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)er
 ```bash
 https://happpydust.github.io/happpydusts-prime-project
 ```

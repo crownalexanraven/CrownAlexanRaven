@@ -11,7 +11,7 @@ https://happpydust.github.io/happpydusts-prime-project
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```
-<a href="[https://happpydust.github.io/happpydust](https://happpydust.github.io/happpydusts-prime-project)" target="_blank"><img src="github_contributions_chart_snake.svg" alt="snake"></a>
+<a href="https://happpydust.github.io/happpydusts-prime-project" target="_blank"><img src="github_contributions_chart_snake.svg" alt="snake"></a>
 
 Credit to AstraaDev
 <!---

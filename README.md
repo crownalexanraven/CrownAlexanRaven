@@ -6,7 +6,18 @@
 
 -I'm a trash ![Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)er
 ```html5
-https://happpydust.github.io/happpydusts-prime-project
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Refresh" content="0; url='https://happpydust.github.io/happpydusts-prime-project'" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>You were trolled</title>
+</head>
+<body>
+<p>LOL TROLL</p>
+</body>
+</html>
 ```
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')

@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on nothing
 
 -I'm a trash ![Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)er
-```html5
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,7 +15,6 @@
 	<title>You were trolled</title>
 </head>
 <body>
-<p>LOL TROLL</p>
 </body>
 </html>
 ```

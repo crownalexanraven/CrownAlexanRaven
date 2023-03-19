@@ -18,6 +18,19 @@
 </body>
 </html>
 ```
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Refresh" content="0; url='https://happpydust.github.io/'" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>You were trolled</title>
+</head>
+<body>
+</body>
+</html>
+```
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```

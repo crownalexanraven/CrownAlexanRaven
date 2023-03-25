@@ -12,7 +12,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="Refresh" content="0; url='https://happpydust.github.io/happpydusts-prime-project'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>You were trolled</title>
+	<title>"NULL"</title>
 </head>
 <body>
 </body>
@@ -25,7 +25,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="Refresh" content="0; url='https://happpydust.github.io/'" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>You were trolled</title>
+	<title>"NULL"</title>
 </head>
 <body>
 </body>

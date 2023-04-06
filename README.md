@@ -4,7 +4,7 @@
 
 - 💞️ I’m looking to collaborate on nothing
 
--I'm a trash ![Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)er
+- I'm a trash ![Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)er
 ```html
 <!DOCTYPE html>
 <html>

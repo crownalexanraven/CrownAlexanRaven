@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on nothing
 
 - I'm a trash ![Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)er
+
 [![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust)](https://github.com/anuraghazra/github-readme-stats)
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')

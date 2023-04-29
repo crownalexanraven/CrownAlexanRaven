@@ -5,32 +5,7 @@
 - 💞️ I’m looking to collaborate on nothing
 
 - I'm a trash ![Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)er
-```html
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="Refresh" content="0; url='https://happpydust.github.io/happpydusts-prime-project'" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>"NULL"</title>
-</head>
-<body>
-</body>
-</html>
-```
-```html
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="Refresh" content="0; url='https://happpydust.github.io/'" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>"NULL"</title>
-</head>
-<body>
-</body>
-</html>
-```
+[![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust)](https://github.com/anuraghazra/github-readme-stats)
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```

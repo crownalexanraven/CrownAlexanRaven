@@ -10,7 +10,7 @@
 
 [![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydust)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=discord-developer-badge-bot)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Story-Writers&repo=Stories)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=Licenses-in-python3)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=discord-developer-badge-bot)](https://github.com/Happpydust/discord-developer-badge-bot)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Story-Writers&repo=Stories)](https://github.com/Story-Writers/Stories)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=Licenses-in-python3)](https://github.com/Happpydust/Licenses-in-python3)
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```

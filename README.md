@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on nothing
 
-- I'm a trash er
+- I'm a trash <a herf="https://scratch.mit.edu/users/Jackjack052012/">Scratcher</a>
 
 [![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydust)](https://github.com/anuraghazra/github-readme-stats)

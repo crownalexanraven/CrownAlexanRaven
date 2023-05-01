@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Happpydust
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Happpydust&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-- 👀 I’m interested in some <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 badge">
-- 🌱 I’m currently learning basic <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python3 badge">
+- 👀 I’m interested in some HTML5
+- 🌱 I’m currently learning basic python3
 
 - 💞️ I’m looking to collaborate on nothing
 
-- I'm a trash ![Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)er
+- I'm a trash er
 
 [![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydust)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,6 +14,7 @@
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python3 badge">![Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)
 <!---
 Happpydust/Happpydust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

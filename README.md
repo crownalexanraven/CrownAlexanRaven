@@ -11,6 +11,7 @@
 [![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydust&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=discord-developer-badge-bot&theme=transparent)](https://github.com/Happpydust/discord-developer-badge-bot)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Story-Writers&repo=Stories&theme=transparent)](https://github.com/Story-Writers/Stories)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=Licenses-in-python3&theme=transparent)](https://github.com/Happpydust/Licenses-in-python3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=happpydusts-prime-project&theme=transparent)](https://happpydust.github.io/happpydusts-prime-project/)
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```

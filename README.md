@@ -12,6 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydust&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=discord-developer-badge-bot&theme=transparent)](https://github.com/Happpydust/discord-developer-badge-bot)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Story-Writers&repo=Stories&theme=transparent)](https://github.com/Story-Writers/Stories)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=Licenses-in-python3&theme=transparent)](https://github.com/Happpydust/Licenses-in-python3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=happpydusts-prime-project&theme=transparent)](https://happpydust.github.io/happpydusts-prime-project/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wrjiouscpsud-w8jissmfc-fjiersdzjfdissss&repo=Game-Show-ChatGPT-Jailbreakt&theme=transparent)](https://gist.github.com/Happpydust/8c7a3fe3caa163783da28b3bbfbca4b4)
 ```python
 print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
 ```

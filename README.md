@@ -8,7 +8,7 @@
 
 - I'm a trash [Scratcher](https://scratch.mit.edu/users/Jackjack052012/)
 
-[![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust&theme=synthwave&hide=prs)]
+[![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust&theme=synthwave&title=Stars,Commit,Followers,Issues,Repos,)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydust&theme=synthwave)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=discord-developer-badge-bot&theme=synthwave)](https://github.com/Happpydust/discord-developer-badge-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Story-Writers&repo=Stories&theme=synthwave)](https://github.com/Story-Writers/Stories)

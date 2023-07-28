@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://github.com/Happpydust">@Happpydust</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Happpydust&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Happpydust&theme=onedark&title=Stars,Commit,Followers,Issues,Repositories,PR)
 - 👀 I’m interested in some HTML5
 - 🌱 I’m currently learning basic python3
 
@@ -8,7 +8,7 @@
 
 - I'm a trash [Scratcher](https://scratch.mit.edu/users/Jackjack052012/)
 
-[![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust&theme=synthwave&title=Stars,Commit,Followers,Issues,Repos,)]
+[![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust&theme=synthwave)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydust&theme=synthwave)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=discord-developer-badge-bot&theme=synthwave)](https://github.com/Happpydust/discord-developer-badge-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Story-Writers&repo=Stories&theme=synthwave)](https://github.com/Story-Writers/Stories)

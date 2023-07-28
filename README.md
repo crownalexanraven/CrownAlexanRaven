@@ -8,9 +8,11 @@
 
 - I'm a trash [Scratcher](https://scratch.mit.edu/users/Jackjack052012/)
 
-[![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust&theme=synthwave)]
+[![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust&theme=synthwave&hide=prs)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydust&theme=synthwave)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=discord-developer-badge-bot&theme=synthwave)](https://github.com/Happpydust/discord-developer-badge-bot)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Story-Writers&repo=Stories&theme=synthwave)](https://github.com/Story-Writers/Stories)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=Licenses-in-python3&theme=synthwave)](https://github.com/Happpydust/Licenses-in-python3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=discord-developer-badge-bot&theme=synthwave)](https://github.com/Happpydust/discord-developer-badge-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Story-Writers&repo=Stories&theme=synthwave)](https://github.com/Story-Writers/Stories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=Licenses-in-python3&theme=synthwave)](https://github.com/Happpydust/Licenses-in-python3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=happpydusts-prime-project&theme=synthwave)](https://happpydust.github.io/happpydusts-prime-project/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glitched-Clone&repo=Game-Show-ChatGPT-Jailbreak&theme=synthwave)](https://gist.github.com/Happpydust/8c7a3fe3caa163783da28b3bbfbca4b4)
 ```python

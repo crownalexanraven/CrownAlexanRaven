@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://github.com/Happpydust">@Happpydust</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Happpydust&theme=onedark&title=Stars,Commit,Followers,Issues,Repositories,PR)
+![trophy](https://github-profile-trophy.vercel.app/?username=Happpydust&theme=onedark&title=Stars,Commit,Followers,Issues,Repositories,PR)
 - 👀 I’m interested in some HTML5
 - 🌱 I’m currently learning basic python3
 

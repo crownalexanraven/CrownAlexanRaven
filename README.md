@@ -6,8 +6,8 @@
 
 - 💞️ I’m looking to collaborate on nothing
 
-<iframe src="https://turbowarp.org/878530845/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
+[<iframe src="https://turbowarp.org/878530845/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
+](https://turbowarp.org/878530845/fullscreen?hqpen)
 - I'm a trash [Scratcher](https://scratch.mit.edu/users/Jackjack052012/)
 
 ![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust&theme=synthwave)

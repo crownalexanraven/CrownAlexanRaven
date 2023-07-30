@@ -6,8 +6,7 @@
 
 - 💞️ I’m looking to collaborate on nothing
 
-<a href="https://turbowarp.org/878530845/fullscreen?hqpen">My Scratch</a>
-- I'm a trash [Scratcher](https://scratch.mit.edu/users/Jackjack052012/)
+- I'm a trash <a href="https://turbowarp.org/878530845/fullscreen?hqpen">Scratcher</a>
 
 ![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydust&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydust&theme=synthwave)

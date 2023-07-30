@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on nothing
 
-<iframe src="https://turbowarp.org/878530845/embed" width="499" height="416" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://turbowarp.org/878530845/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 - I'm a trash [Scratcher](https://scratch.mit.edu/users/Jackjack052012/)
 

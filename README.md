@@ -15,9 +15,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=Licenses-in-python3&theme=synthwave)](https://github.com/Happpydust/Licenses-in-python3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=happpydusts-prime-project&theme=synthwave)](https://happpydust.github.io/happpydusts-prime-project/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glitched-Clone&repo=Game-Show-ChatGPT-Jailbreak&theme=synthwave)](https://gist.github.com/Happpydust/8c7a3fe3caa163783da28b3bbfbca4b4)
-```python
-print('Follow Happpydust (https://github.com/Happpydust/) on Github!')
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python3 badge">![Scratch badge](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)![Scratch badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)![Discord badge](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
 <!---
 Happpydust/Happpydust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

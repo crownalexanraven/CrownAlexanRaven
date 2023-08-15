@@ -1,8 +1,12 @@
-name: Contribution Graph Every 31 Days
+name: Contribution Graph
 
 on:
+  push:
+    branches:
+      - main # Change this to your repository's main branch
+
   schedule:
-    - cron: '0 0 */31 * *'
+    - cron: '0 0 */31 * *' # Every 31 days
 
 jobs:
   generate-contribution-graph:

@@ -1,3 +1,5 @@
+# This is a basic workflow to help you get started with Actions
+
 name: Monthly Contribution Graph
 
 on:
@@ -17,4 +19,4 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.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 }}

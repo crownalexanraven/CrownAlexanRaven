@@ -1,0 +1,20 @@
+name: Contribution Graph Every 31 Days
+
+on:
+  schedule:
+    - cron: '0 0 */31 * *'
+
+jobs:
+  generate-contribution-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Generate Contribution Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

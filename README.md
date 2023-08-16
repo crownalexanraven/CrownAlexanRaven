@@ -15,11 +15,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=Licenses-in-python3&theme=synthwave)](https://github.com/Happpydust/Licenses-in-python3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydust&repo=happpydusts-prime-project&theme=synthwave)](https://happpydust.github.io/happpydusts-prime-project/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glitched-Clone&repo=Game-Show-ChatGPT-Jailbreak&theme=synthwave)](https://gist.github.com/Happpydust/8c7a3fe3caa163783da28b3bbfbca4b4)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="github-user-contribution.svg" alt="github-user-contribution snk.svg image">
 <!---
 Happpydust/Happpydust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

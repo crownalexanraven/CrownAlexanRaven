@@ -15,7 +15,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Story-Writers&repo=Stories&theme=synthwave)](https://github.com/Story-Writers/Stories)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydev&repo=Licenses-in-python3&theme=synthwave)](https://github.com/Happpydust/Licenses-in-python3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Happpydev&repo=happpydusts-prime-project&theme=synthwave)](https://happpydust.github.io/happpydusts-prime-project/)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=8c7a3fe3caa163783da28b3bbfbca4b4&theme=synthwave)](https://gist.github.com/Happpydust/8c7a3fe3caa163783da28b3bbfbca4b4/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=8c7a3fe3caa163783da28b3bbfbca4b4&theme=synthwave)](https://gist.github.com/Happpydev/8c7a3fe3caa163783da28b3bbfbca4b4/)
 <img src="github-user-contribution.svg" alt="github-user-contribution snk.svg image">
 <!---
 Happpydust/Happpydust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

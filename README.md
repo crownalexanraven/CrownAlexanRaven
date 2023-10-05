@@ -5,7 +5,8 @@
   <br>
   <br>
 </p>
-
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=4500&pause=1000&width=435&lines=Hi%2C+I'm+Happpydev;I+write+Python%2C+HTML5.;I+sometimes+write+other+stuff.+%F0%9F%98%BA" alt="Typing SVG" />
 ![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydev&theme=darcula&hide_border=true&background=FFFFFF00)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydev&theme=darcula&hide_border=true&background=FFFFFF00)
 <a href="https://github.com/Happpydust/ScratchSignIn" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Happpydev&repo=ScratchSignIn&theme=darcula&hide_border=true&background=FFFFFF00"></a>

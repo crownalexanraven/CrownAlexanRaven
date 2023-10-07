@@ -7,8 +7,8 @@
 </p>
 <img src="typing-thing.svg" alt="Typing SVG" />
 
-![Happpydust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happpydev&theme=darcula&hide_border=true&background=FFFFFF00)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydev&theme=darcula&hide_border=true&background=FFFFFF00)
+<img src="https://github-readme-stats.vercel.app/api?username=Happpydev&theme=darcula&hide_border=true&background=FFFFFF00" alt="Happpydust's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydev&theme=darcula&hide_border=true&background=FFFFFF00" alt="Top Languages" />
 <a href="https://github.com/Happpydust/ScratchSignIn" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Happpydev&repo=ScratchSignIn&theme=darcula&hide_border=true&background=FFFFFF00"></a>
 <a href="https://github.com/Happpydust/discord-developer-badge-bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Happpydev&repo=discord-developer-badge-bot&theme=darcula&hide_border=true&background=FFFFFF00"></a>
 <a href="https://github.com/Happpydust/Scratch-User-Profile-Time" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Happpydev&repo=Scratch-User-Profile-Time&theme=darcula&hide_border=true&background=FFFFFF00"></a>
@@ -24,3 +24,4 @@ https://home.aveek.io/GitHub-Profile-Badges/ is profile badge link
 <img src="https://github-profile-trophy.vercel.app/?username=Happpydev&theme=onedark&title=Stars,Commit,Followers,Issues,Repositories,PR">
 https://github.com/Happpydev?tab=overview&from=2022-11-01&to=2022-11-30
 --->
+2

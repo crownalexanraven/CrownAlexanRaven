@@ -7,6 +7,7 @@
 </p>
 <img src="typing-thing.svg" alt="Typing SVG" />
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Happpydev&theme=darcula&hide_border=true&background=FFFFFF00" alt="Happpydust's GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happpydev&theme=darcula&hide_border=true&background=FFFFFF00" alt="Top Languages" />
 <a href="https://github.com/Happpydust/ScratchSignIn" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Happpydev&repo=ScratchSignIn&theme=darcula&hide_border=true&background=FFFFFF00"></a>

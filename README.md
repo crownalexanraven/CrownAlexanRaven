@@ -24,4 +24,3 @@ https://home.aveek.io/GitHub-Profile-Badges/ is profile badge link
 <img src="https://github-profile-trophy.vercel.app/?username=Happpydev&theme=onedark&title=Stars,Commit,Followers,Issues,Repositories,PR">
 https://github.com/Happpydev?tab=overview&from=2022-11-01&to=2022-11-30
 --->
-2

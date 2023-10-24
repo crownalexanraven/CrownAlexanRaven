@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+am+d%C3%A6mon.;I+work+on+Python%2C+HTML5+and+Swift.;I+sometimes+work+on+JS.;Bye+bye.%F0%9F%98%BA" alt="Typing SVG" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=daemonagentdev&theme=darcula&hide_border=true&background=FFFFFF00" alt="Happpydust's GitHub stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daemonagentdev&theme=darcula&hide_border=true&background=FFFFFF00" alt="Top Languages" />
-<a href="https://github.com/Happpydust/ScratchSignIn" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=ScratchSignIn&theme=darcula&hide_border=true&background=FFFFFF00"></a>
+<a href="https://github.com/Happpydust/My-Stories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=My-Stories&theme=darcula&hide_border=true&background=FFFFFF00"></a>
 <a href="https://github.com/Happpydust/discord-developer-badge-bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=discord-developer-badge-bot&theme=darcula&hide_border=true&background=FFFFFF00"></a>
 <a href="https://github.com/Happpydust/Scratch-User-Profile-Time" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=Scratch-User-Profile-Time&theme=darcula&hide_border=true&background=FFFFFF00"></a>
 <a href="https://github.com/Happpydust/Licenses-in-python3" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=Licenses-in-python3&theme=darcula&hide_border=true&background=FFFFFF00"></a>

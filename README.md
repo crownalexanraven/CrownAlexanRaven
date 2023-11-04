@@ -4,9 +4,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=daemonagentdev&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  ```ansi
-[2;31mLike [2;34mMy[0m[2;31m C[0m[2;32mo[0m[2;33ml[0m[2;34mo[0m[2;35mr[0m[2;36me[0m[2;37md[0m text?
-```
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+am+d%C3%A6mon.;I+work+on+Python%2C+HTML5+and+Swift.;I+sometimes+work+on+JS.;Bye+bye.%F0%9F%98%BA" alt="Typing SVG" />
 

@@ -5,7 +5,7 @@
   <br>
   <br>
 </p>
-<img src="" alt="Typing SVG" />
+<img src="typing-thing.svg" alt="Typing SVG" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=daemonagentdev&theme=darcula&hide_border=true&background=FFFFFF00" alt="daemonagentdev's GitHub stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daemonagentdev&theme=darcula&hide_border=true&background=FFFFFF00" alt="Top Languages" />
 <a href="https://github.com/daemonagentdev/My-Stories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=My-Stories&theme=darcula&hide_border=true&background=FFFFFF00"></a>

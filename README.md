@@ -9,7 +9,7 @@
 <img src="typing-thing.svg" alt="Typing SVG" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=daemonagentdev&theme=darcula&hide_border=true&background=FFFFFF00" alt="daemonagentdev's GitHub stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daemonagentdev&theme=darcula&hide_border=true&background=FFFFFF00" alt="Top Languages" />
-<a href="https://github.com/daemonagentdev/My-Stories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=My-Stories&theme=darcula&hide_border=true&background=FFFFFF00"></a>
+<!--<a href="https://github.com/daemonagentdev/My-Stories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=My-Stories&theme=darcula&hide_border=true&background=FFFFFF00"></a>-->
 <a href="https://github.com/daemonagentdev/discord-developer-badge-bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=discord-developer-badge-bot&theme=darcula&hide_border=true&background=FFFFFF00"></a>
 <a href="https://github.com/daemonagentdev/Scratch-User-Profile-Time" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=Scratch-User-Profile-Time&theme=darcula&hide_border=true&background=FFFFFF00"></a>
 <a href="https://github.com/daemonagentdev/Licenses-in-python3" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=Licenses-in-python3&theme=darcula&hide_border=true&background=FFFFFF00"></a>

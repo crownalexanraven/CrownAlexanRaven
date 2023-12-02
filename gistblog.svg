@@ -69,7 +69,7 @@
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3572A5"/>
-      <text data-testid="lang-name" class="gray" x="15">AveekCode</text>
+      <text data-testid="lang-name" class="gray" x="15">Made by Aveek Saha</text>
     </g>
     </g>
     </g>

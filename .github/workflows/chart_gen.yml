@@ -1,17 +1,14 @@
-name: generate animation
+name: snk animation gen
 
 on:
+  push:
+    branches:
+      - master
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 2 * * *" # 12:00 PM Sydney time is 2:00 AM UTC
   
   workflow_dispatch:
   
-  push:
-    branches:
-    - master
-    
-  
-
 jobs:
   generate:
     runs-on: ubuntu-latest

@@ -22,7 +22,7 @@
 <!---
 <img src="">
 https://home.aveek.io/GitHub-Profile-Badges/ is profile badge link
-https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+am+d%C3%A6mon.;I+work+on+Python%2C+HTML5+and+Swift.;I+sometimes+work+on+JS.;Bye+bye.%F0%9F%98%BA
+https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+am+d%C3%A6mon.;So
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daemonagentdev&repo=)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-profile-trophy.vercel.app/?username=daemonagentdev&theme=onedark&title=Stars,Commit,Followers,Issues,Repositories,PR">
 https://github.com/daemonagentdev?tab=overview&from=2022-11-01&to=2022-11-30

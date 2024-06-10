@@ -12,7 +12,7 @@
 <a href="https://github.com/CrownAlexanRaven/discord-developer-badge-bot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CrownAlexanRaven&repo=discord-developer-badge-bot&theme=darcula&hide_border=true&background=FFFFFF00"></a>
 <a href="https://github.com/CrownAlexanRaven/Scratch-User-Profile-Time" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CrownAlexanRaven&repo=Scratch-User-Profile-Time&theme=darcula&hide_border=true&background=FFFFFF00"></a>
 <a href="https://github.com/CrownAlexanRaven/SpamPing" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CrownAlexanRaven&repo=SpamPing&theme=darcula&hide_border=true&background=FFFFFF00"></a>
-<a href="https://gist.github.com/CrownAlexanRaven/8c7a3fe3caa163783da28b3bbfbca4b4/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/gist?id=8c7a3fe3caa163783da28b3bbfbca4b4&theme=darcula&hide_border=true&background=FFFFFF00"></a><a href="https://gistblog.vercel.app/CrownAlexanRaven"><img src="gistblog.svg" alt="gist blog page"></a>
+<a href="https://gist.github.com/CrownAlexanRaven/8c7a3fe3caa163783da28b3bbfbca4b4/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/gist?id=8c7a3fe3caa163783da28b3bbfbca4b4&theme=darcula&hide_border=true&background=FFFFFF00"></a>
 <img src="https://raw.githubusercontent.com/CrownAlexanRaven/CrownAlexanRaven/output/github-contribution-grid-snake-dark.svg" alt="github-user-contribution snk.svg image">
 </p>
 
